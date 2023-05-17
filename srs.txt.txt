@@ -1,0 +1,44 @@
+Document:system requirement specification 
+
+system requirement specification for online project management
+
+purpose :
+the main purpose of the online project management is to help the company to smoothly manage their work.
+
+scope :
+the scope of the online project management is to create a good application,
+which has many features through which a compamy manager find easy to manage their employee.
+
+team:
+
+direct customer,indirect customer,architect,business analyst,system analyst,testing team
+
+Functional Requirement:
+
+the first functional requirement of this online project management system is providing login page that if a user want to enter the application they have to login
+also there will we help to maintain the customer their work.
+
+in our online project management we help to customer work smoothly we provide many resources like we give flexibility to our customer 
+that when the one employee want to work they can work their is orderwise work like in waterfall model we are going to create like agile methodlogies.
+
+in our online project management we are providing many functionalities like we are help our customer
+ by giving the functionalities of time and complete work track.
+
+in our online project management we are going to provide the customer resource management tools.
+
+we are going to provide the notifications if there work of timimg is nearer and they have not finished.
+
+in our online project management we are going to add a feature in which we are going collaborate with big tech 
+companies which help our customer company to train  in which we add subscription method.
+
+for subscription method we are going to add payment method
+
+in our online project management we are going to help our customer by providing mant tools which help the customer to manager their work
+like we going to add jeera in our project management which help our customer not to go specially login jeera.
+
+our online project management help the customer to manager and update the work of employee,
+project manager,delivery managers,stackeholders,to update about executions of project going in the organisation.
+ 
+
+
+

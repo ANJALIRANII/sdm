@@ -1,0 +1,44 @@
+business entity
+
+login
+user: lastname,firstname,email
+
+project:
+projectid,projectname,projectmanager
+
+delivery manager:
+deliveryid,deliverymanager_name
+
+project manager:
+projectmanagerid,projectmanager_name
+
+
+business operation on online management system
+
+login
+logout
+payment
+project time tracking
+project 
+show project details
+show complete and running project
+change paswword 
+forgot password
+
+
+transaction:
+transaction id
+trnsaction details
+
+CRUD operation
+create
+read
+update
+delete
+
+TCL operation
+commit :approve
+rollback:failed
+savepoint:level
+
+
